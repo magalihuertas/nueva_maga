@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <NavBar/>
         <img src={logo} className="App-logo" alt="logo" />
-        <img src="/images/logo_unik.png" alt="Unik logo"/>
+        <img src="./images/unik_logo.png" alt="Unik logo"/>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
